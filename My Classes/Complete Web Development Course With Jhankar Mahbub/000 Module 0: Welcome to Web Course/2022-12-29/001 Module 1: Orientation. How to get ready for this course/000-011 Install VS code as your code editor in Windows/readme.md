@@ -21,7 +21,8 @@ Basic editing
 |Shift+Alt + ↓ / ↑|Copy line up/down 
 |Ctrl+Shift+K| Delete line|
 |Ctrl+Enter| Insert line below|
-|Home / End|Go to beginning/end of line Ctrl+Home Go to beginning of file|
+|Home / End|Go to beginning/end of line|
+|Ctrl+Home| Go to beginning of file|
 |Ctrl+End|Go to end of file|
 |Ctrl+↑ / ↓| Scroll line up/down|
 |Alt+PgUp / PgDn| Scroll page up/down|
