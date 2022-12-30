@@ -18,7 +18,8 @@ Basic editing
 |Ctrl+X| Cut line (empty selection)|
 |Ctrl+C|Copy line (empty selection)| 
 |Alt+ ↑ / ↓| Move line up/down|
-|Shift+Alt + ↓ / ↑|Copy line up/down Ctrl+Shift+K Delete line|
+|Shift+Alt + ↓ / ↑|Copy line up/down 
+|Ctrl+Shift+K| Delete line|
 |Ctrl+Enter| Insert line below|
 |Home / End|Go to beginning/end of line Ctrl+Home Go to beginning of file|
 |Ctrl+End|Go to end of file|
