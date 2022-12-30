@@ -6,3 +6,7 @@ An **integrated development environment** (IDE) is software for building applica
 
 
 [Node.js](https://nodejs.org/en/)
+
+cmd -> node --verstion
+
+
