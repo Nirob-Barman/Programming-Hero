@@ -1,0 +1,41 @@
+ .header {
+    height: 500px;
+    background-image: url(https://images.pexels.com/photos/459976/pexels-photo-459976.jpeg);
+    background-size: cover;
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    /* background-position: top center; */
+    /* background-position: top center; */
+    background-blend-mode: multiply;
+    color: yellow;
+ }
+ .blog {
+    background-color: lightblue;
+    box-shadow: 10px 10px gray;
+ }
+ h3 {
+    color: magenta;
+    text-decoration: underline wavy green;
+ }
+ p {
+    color: blue;
+ }
+ .page-title {
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ a {
+    text-decoration: none;
+ }
+ span {
+    border: 1px solid purple;
+    height: 400px;
+    width: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* try without using display: block */
+    /* display: block; */
+    /* try without using display: inline-block */
+    /* display: inline-block; */
+    display: none;
+ }
