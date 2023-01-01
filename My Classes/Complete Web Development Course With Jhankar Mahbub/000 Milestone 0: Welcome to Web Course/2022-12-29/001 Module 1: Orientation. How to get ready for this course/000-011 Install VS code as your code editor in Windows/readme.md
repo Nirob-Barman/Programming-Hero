@@ -27,6 +27,10 @@ Basic editing
 |Ctrl+↑ / ↓| Scroll line up/down|
 |Alt+PgUp / PgDn| Scroll page up/down|
 |Ctrl+K Ctrl+C| Add line comment|
+|Ctrl+K Ctrl+U| Remove line comment|
+|Ctrl+/| Toggle line comment|
+|Shift+Alt+A| Toggle block comment|
+|Alt+Z| Toggle word wrap |
 |||
 
 Navigation
