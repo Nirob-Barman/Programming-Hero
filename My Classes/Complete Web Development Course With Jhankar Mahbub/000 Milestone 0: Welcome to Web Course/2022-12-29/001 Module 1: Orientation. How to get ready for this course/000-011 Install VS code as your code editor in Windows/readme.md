@@ -57,6 +57,13 @@ Ctrl+K S| Save All|
 |||
 
 
+Display
+|||
+|:-:|:-:|
+|Ctrl+B| Toggle Sidebar visibility|
+|Ctrl+Shift+D| Show Debug|
+|Ctrl+Shift+H| Replace in files|
+
 Debug
 |||
 |:-:|:-:|
