@@ -20,3 +20,5 @@ li*3 =>
 
 
 secion.blogs => `<section class="blogs"></section>`
+
+html5 Semantic tags
