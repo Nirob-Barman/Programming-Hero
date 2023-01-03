@@ -19,3 +19,4 @@ li*3 =>
          <li></li>
 
 
+secion.blogs => `<section class="blogs"></section>`
