@@ -40,3 +40,12 @@ HTML tags
 [HTML5 Tags/Elements](https://www.tutorialrepublic.com/html-reference/html5-tags.php)
 
 
+## 004-08 All html attributes Title attribute, comments, alt, data
+
+
+html attributes
+
+[HTML Attribute Reference](https://www.w3schools.com/tags/ref_attributes.asp)
+
+
+
