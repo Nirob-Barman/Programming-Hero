@@ -32,3 +32,11 @@ secion.blogs => `<section class="blogs"></section>`
 
 html5 Semantic tags
 
+
+## 004-07 All html tags, everything you need to know about html
+
+HTML tags
+
+[HTML5 Tags/Elements](https://www.tutorialrepublic.com/html-reference/html5-tags.php)
+
+
