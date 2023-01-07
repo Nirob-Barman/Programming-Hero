@@ -1,0 +1,95 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-Box</title>
+    <style>
+        /* h1{
+            color: royalblue;
+        } */
+        h1:hover{
+            color: skyblue;
+            background-color: seagreen;
+            margin: 10px 20px;
+            padding: 20px 20px;
+        }
+        .middle-person:focus{
+            color: blue;
+            font-weight: 700;
+
+        }
+        a:visited{
+            color: red;
+        }
+        li {
+            color: darkblue;
+        }
+        li:first-child {
+            color: blue;
+        }
+        li:last-child {
+            background-color: cornflowerblue;
+        }
+        li:nth-child(n){
+            color: crimson;
+        }
+        li:nth-child(2n){
+            color: chartreuse;
+        }
+        li:nth-child(2n+1){
+            background-color: darkgray;
+        }
+
+        /* pseudo class : */
+        /* pseudo element :: */
+        h3::before {
+            content: 'Hello ';
+        }
+
+        h3::after {
+            content: ' gello';
+            background-color: darkkhaki;
+            font-size: 29px;
+        }
+        .special::after {
+            content: ' Special';
+            background-color: darkorange;
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>This is normal</h1>
+    <input type="text" name="" id="">
+    <input class="middle-person" type="text" name="" id="">
+    <input type="text" name="" id=""> <br>
+
+    <a href="https://www.google.com/">Visit Google</a>
+    <a href="https://www.brandnew.ee/">Never Visited</a>
+    <a href="https://web.programming-hero.com/home/">Visit PHero</a>
+
+    <h3>middle size header 1</h3>
+    <h3 class="special">middle size header 2</h3>
+    <h3>middle size header 3</h3>
+    <h3 class="special">middle size header 4</h3>
+    <h3 class="special">middle size header 5</h3>
+    <h3>middle size header 6</h3>
+
+    <ul>
+        <li>Alia</li>
+        <li>Dalia</li>
+        <li>Kalia</li>
+        <li>Calia</li>
+        <li>Jalaiya</li>
+        <li>Charaiya</li>
+        <li>Alia</li>
+        <li>Dalia</li>
+        <li>Kalia</li>
+        <li>Calia</li>
+        <li>Jalaiya</li>
+        <li>Charaiya</li>
+    </ul>
+
+</body>
+</html>
