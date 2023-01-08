@@ -3,3 +3,5 @@
 
 
 [TinyPNG](https://tinypng.com/)
+
+[TinyJPG – Compress WebP, PNG and JPEG images intelligently](https://tinyjpg.com/)
