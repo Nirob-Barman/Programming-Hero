@@ -1,4 +1,17 @@
 - [Bootstrap · The most popular HTML, CSS, and JS library in the ...](https://getbootstrap.com/)
 
 - [Color and background](https://getbootstrap.com/docs/5.3/helpers/color-background/)
+- [Colored links](https://getbootstrap.com/docs/5.3/helpers/colored-links/)
+- [Background](https://getbootstrap.com/docs/5.3/utilities/background/)
+- [Spacing](https://getbootstrap.com/docs/5.3/utilities/spacing/)
+- [Colors](https://getbootstrap.com/docs/5.3/utilities/colors/)
+- [Borders](https://getbootstrap.com/docs/5.3/utilities/borders/)
+- [Buttons](https://getbootstrap.com/docs/5.3/components/buttons/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
