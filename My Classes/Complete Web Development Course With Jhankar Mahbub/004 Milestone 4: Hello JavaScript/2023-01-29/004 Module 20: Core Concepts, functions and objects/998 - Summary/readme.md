@@ -24,5 +24,12 @@ let result = text.substring(1, 4);
 ell
 </script>
 ```
+    console.log(5,6,7,8,9);
+    console.log(1.5 ,"taka den :",50);
+    console.log('going to add', 5, 'and', 6, 'the ans is : ',5+6);
+    
+    5 6 7 8 9
+    1.5 taka den : 50
+    going to add 5 and 6 the ans is :  11
 
 * JavaScript Functions
