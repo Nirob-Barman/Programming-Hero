@@ -33,3 +33,8 @@ ell
     going to add 5 and 6 the ans is :  11
 
 * JavaScript Functions
+* JavaScript object
+
+    property_value = object_name('property_name');
+    Object.keys(object_name);
+    Object.values(object_name);
