@@ -16,16 +16,48 @@
 
 [002 Milestone 2: Responsive Web Layout](https://github.com/rsnirob/Programming-Hero/tree/main/My%20Classes/Complete%20Web%20Development%20Course%20With%20Jhankar%20Mahbub/002%20Milestone%202:%20%20Responsive%20Web%20Layout)
 
-| Date 	| Module Name 	|
-|:---:	|:---:	|
-| 2023-01-08 	| 002 Module 7: Optimize images, Icon, CSS3 animation 	|
-| 2023-01-09 	| 002 Module 8: Responsive CSS Layout 	|
-| 2023-01-10 	| 002 No module day 	|
-| 2023-01-11 	| 002 Module 9: More Responsive Layout, Responsive Portfolio 	|
-| 2023-01-12 	| 002 Module 10: HTML CSS only Landing Page 	|
-| 2023-01-13 	| 002 Module 10.5: Landing page with responsive practise day 	|
-| 2023-01-14 	| 002 Module 11: Responsive Website Assignment 2 	|
-| 2023-01-15 	| 002 Module 11.5: [Bonus] UI UX, future strategy about html, css 	|
+<table>
+<thead>
+  <tr>
+    <th>Date</th>
+    <th>Module Name</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2023-01-08</td>
+    <td>002 Module 7: Optimize images, Icon, CSS3 animation</td>
+  </tr>
+  <tr>
+    <td>2023-01-09</td>
+    <td>002 Module 8: Responsive CSS Layout</td>
+  </tr>
+  <tr>
+    <td>2023-01-10</td>
+    <td>002 No module day</td>
+  </tr>
+  <tr>
+    <td>2023-01-11</td>
+    <td>002 Module 9: More Responsive Layout, Responsive Portfolio</td>
+  </tr>
+  <tr>
+    <td>2023-01-12</td>
+    <td>002 Module 10: HTML CSS only Landing Page</td>
+  </tr>
+  <tr>
+    <td>2023-01-13</td>
+    <td>002 Module 10.5: Landing page with responsive practise day</td>
+  </tr>
+  <tr>
+    <td>2023-01-14</td>
+    <td>002 Module 11: Responsive Website Assignment 2</td>
+  </tr>
+  <tr>
+    <td>2023-01-15</td>
+    <td>002 Module 11.5: [Bonus] UI UX, future strategy about html, css</td>
+  </tr>
+</tbody>
+</table>
 
 [003 Milestone 3: CSS Frameworks](https://github.com/rsnirob/Programming-Hero/tree/main/My%20Classes/Complete%20Web%20Development%20Course%20With%20Jhankar%20Mahbub/003%20Milestone%203:%20CSS%20Frameworks)
 
