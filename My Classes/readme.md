@@ -3,27 +3,65 @@
 
 [001 Milestone 1: HTML, CSS and Github as a beginner](https://github.com/rsnirob/Programming-Hero/tree/main/My%20Classes/Complete%20Web%20Development%20Course%20With%20Jhankar%20Mahbub/001%20Milestone%201:%20HTML%2C%20CSS%20and%20Github%20as%20a%20beginner)
 
-**Date**|**Module Name**
-:-----:|:-----:
-2022-12-31|001 Module 1: Learn and Explore HTML
-2023-01-01|001 Module 2: Getting started with CSS(Absolute beginner)
-2023-01-02|001 Module 3: Git, source control, Github
-2023-01-03|001 Module 4: More HTML and more CSS
-2023-01-04|001 Module 5: Build a beautiful portfolio website
-2023-01-05|001 Module 5.5: Revision or Practice and Conceptual day
-2023-01-06|001 Module 6: Build your new year new mission website
-2023-01-07|001 Module 6.5: [Bonus] Pseudo class,pseudo element, position
+<table>
+<thead>
+  <tr>
+    <th colspan="2">001 Milestone 1: HTML, CSS and Github as a beginner</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Date</td>
+    <td>Module Name</td>
+  </tr>
+  <tr>
+    <td>2022-12-31</td>
+    <td>001 Module 1: Learn and Explore HTML</td>
+  </tr>
+  <tr>
+    <td>2023-01-01</td>
+    <td>001 Module 2: Getting started with CSS(Absolute beginner)</td>
+  </tr>
+  <tr>
+    <td>2023-01-02</td>
+    <td>001 Module 3: Git, source control, Github</td>
+  </tr>
+  <tr>
+    <td>2023-01-03</td>
+    <td>001 Module 4: More HTML and more CSS</td>
+  </tr>
+  <tr>
+    <td>2023-01-04</td>
+    <td>001 Module 5: Build a beautiful portfolio website</td>
+  </tr>
+  <tr>
+    <td>2023-01-05</td>
+    <td>001 Module 5.5: Revision or Practice and Conceptual day</td>
+  </tr>
+  <tr>
+    <td>2023-01-06</td>
+    <td>001 Module 6: Build your new year new mission website</td>
+  </tr>
+  <tr>
+    <td>2023-01-07</td>
+    <td>001 Module 6.5: [Bonus] Pseudo class,pseudo element, position</td>
+  </tr>
+</tbody>
+</table>
 
 [002 Milestone 2: Responsive Web Layout](https://github.com/rsnirob/Programming-Hero/tree/main/My%20Classes/Complete%20Web%20Development%20Course%20With%20Jhankar%20Mahbub/002%20Milestone%202:%20%20Responsive%20Web%20Layout)
 
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Module Name</th>
+    <th colspan="2">002 Milestone 2: Responsive Web Layout</th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>Date</td>
+    <td>Module Name</td>
+  </tr>
   <tr>
     <td>2023-01-08</td>
     <td>002 Module 7: Optimize images, Icon, CSS3 animation</td>
