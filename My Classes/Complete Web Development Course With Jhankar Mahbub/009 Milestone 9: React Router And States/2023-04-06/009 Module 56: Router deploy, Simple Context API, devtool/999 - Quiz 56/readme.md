@@ -18,7 +18,7 @@ console.log(result);
 3. Which one is not true?
 4. If I want to render < User /> when the user is true what should I write?
 ```
-user  ____?____ < User />
+user  ____?____ **< User />**
 ```
 5. What do you think which one will be rendered to the UI?
 ```
