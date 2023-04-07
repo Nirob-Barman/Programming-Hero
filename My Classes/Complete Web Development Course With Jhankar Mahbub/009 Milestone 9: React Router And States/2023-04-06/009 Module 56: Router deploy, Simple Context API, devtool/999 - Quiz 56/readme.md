@@ -20,4 +20,18 @@ console.log(result);
 ```
 user  ____?____ < User />
 ```
-5. 
+5. What do you think which one will be rendered to the UI?
+```
+const admin = false;
+{ admin ? <h1>Admin</h1> : <User/> }
+```
+6. How do you declare the context API?
+7. Fill in the blank with the appropriate word.
+```
+<CountContext ___?___ value = {[count, setCount]}>
+```
+8. In which way do we pass props to two sibling components?
+9. Which hook do you want to use for access context?
+10. Which of the following content should be inside _redirects file to solve page not found issue for react apps in netlify?
+
+
