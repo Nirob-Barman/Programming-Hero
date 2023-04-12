@@ -1,1 +1,2 @@
-
+- code link : https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-rsnirob
+- live site (Netlify) : https://guileless-sable-586251.netlify.app/
